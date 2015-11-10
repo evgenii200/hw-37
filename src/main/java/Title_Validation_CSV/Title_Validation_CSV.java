@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Selenium_csv {
+public class Title_Validation_CSV {
 
 	
 	public static void main(String[] args) throws IOException  {
