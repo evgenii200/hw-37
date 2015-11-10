@@ -4,7 +4,7 @@ GITHUB_ACCOUNT=evgenii200
 WS_DIR=Workspace
 REPO_NAME=hw-37
 APP_VERSION=1.1
-MAIN_CLASS=Title_Validation_CSV.Selenium_csv
+MAIN_CLASS=Title_Validation_CSV
 ARGS_01=
 # ========================================
 # ========================================
